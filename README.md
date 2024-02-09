@@ -1,2 +1,3 @@
 # LeetCode_Practic
-The repository made for just leetcode questions practice like arrays,strings.
+The repository made for just leetcode questions practice like arrays,strings and more.
+
